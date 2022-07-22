@@ -1,1 +1,1 @@
-# Patika.dev InsertionSort Projesi
+# Patika.dev Insertion Sort Projesi
