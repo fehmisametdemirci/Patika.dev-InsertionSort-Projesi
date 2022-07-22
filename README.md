@@ -22,3 +22,12 @@ b) [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazın
 [2,6,16,22,18,27]  -----> (n-2)
 
 [2,6,16,18,22,27]  -----> (n-3)
+
+# a.2) Big-O Gösterimi
+
+BEST Case: O(n)
+
+WORST Case: O(n²) = n + (n-1) + (n-2)...+ 1
+
+AVERAGE Case: O(n²)
+
