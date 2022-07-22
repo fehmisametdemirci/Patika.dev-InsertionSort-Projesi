@@ -31,3 +31,26 @@ WORST Case: O(n²) = n + (n-1) + (n-2)...+ 1
 
 AVERAGE Case: O(n²)
 
+# a.3) Time Complexity
+
+Best case ---->  [2,6,16,18,22,27]
+
+Worst case --->  [22,27,16,2,18,6]
+
+Averaged case ---> [2,27,16,22,18,6]
+
+# a.4) 18 Sayısının Durumu 
+
+Averaged Case
+
+# b) [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı
+
+[2|,3,5,8,7,9,4,15,6]
+
+[2,3|,5,8,7,9,4,15,6]
+
+[2,3,4|,8,7,9,5,15,6]
+
+[2,3,4,5|,7,9,8,15,6]
+
+www.patika.dev
